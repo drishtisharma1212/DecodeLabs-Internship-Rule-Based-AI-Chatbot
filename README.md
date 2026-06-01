@@ -20,12 +20,15 @@ This project is a simple Rule-Based AI Chatbot developed using Python. The chatb
 
 ## Sample Interaction
 You: hi
+<br>
 Bot: Hello! Nice to meet you.
 
 You: what is ai
+<br>
 Bot: AI (Artificial Intelligence) is the simulation of human intelligence by machines.
 
 You: exit
+<br>
 Bot: Goodbye!  Have a great day.
 
 ## Learning Outcomes
