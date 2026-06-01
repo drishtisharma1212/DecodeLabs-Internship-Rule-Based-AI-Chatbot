@@ -2,16 +2,16 @@
 This project is a simple Rule-Based AI Chatbot developed using Python. The chatbot interacts with users through predefined responses and demonstrates the fundamentals of Artificial Intelligence, control flow, and decision-making logic.
 
 ## Features
- Greeting detection
- AI-related responses
- Python-related responses
- Help command
- Exit command
- Continuous conversation loop
- Rule-based decision making
+- Greeting detection
+- AI-related responses
+- Python-related responses
+- Help command
+- Exit command
+- Continuous conversation loop
+- Rule-based decision making
 
 ## Technologies Used
- Python
+- Python
 
 ## How to Run
 1. Clone the repository: git clone <repository-url>
@@ -29,8 +29,8 @@ You: exit
 Bot: Goodbye!  Have a great day.
 
 ## Learning Outcomes
- Conditional Statements
- Loops
- Control Flow
- Rule-Based Systems
- Basic Artificial Intelligence Concepts
+- Conditional Statements
+- Loops
+- Control Flow
+- Rule-Based Systems
+- Basic Artificial Intelligence Concepts
